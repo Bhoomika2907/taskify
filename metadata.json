@@ -1,0 +1,5 @@
+{
+  "name": "Taskify",
+  "description": "A collaborative task management platform with role-based access for managers and employees.",
+  "requestFramePermissions": []
+}
